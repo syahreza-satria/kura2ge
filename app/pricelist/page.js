@@ -76,7 +76,7 @@ export default function PricelistPage() {
         <p className="mt-12 text-base text-center text-slate-600">
           I will send you the invoice after you order the commission;
           <br />
-          please double-check before making payment.
+          please <span className='font-extrabold'>double-check</span> before making payment.
         </p>
       </div>
     </>
